@@ -69,3 +69,10 @@ vboxapi==1.0
 wsgiref==0.1.2
 xattr==0.6.4
 zope.interface==3.8.0
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.18
+Werkzeug==0.9.4
+git-remote-helpers==0.1.0
+itsdangerous==0.23
+wsgiref==0.1.2
